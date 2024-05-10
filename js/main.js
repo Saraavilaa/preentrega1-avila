@@ -1,9 +1,6 @@
 // VARIABLES
 let IVA = 1.21
-let listaDeProductos = "Jarron, Silla, Libro, Flor, Lapiz" 
-let montoMinimo = 1200
-let meses = 3
-
+let listaDeProductos = "Jarron, Silla, Libro, Flor, Lapiz"
 
 // INFORMACION DEL USUARIO
 function usuarioEdad() {
